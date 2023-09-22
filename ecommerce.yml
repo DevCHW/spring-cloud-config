@@ -1,7 +1,7 @@
 token:
-  expiration_time: 864
-  # secret: VlwEyVBsYt9V7zq57TejMnVUyewkrqwekkeWERkdfksazblYcfPQye08f7MGEWRweVA9XkHa
-  secret: user_token_ecommerce
+  expiration_time: 86400000
+  secret: VlwEyVBsYt9V7zq57TejMnVUyewkrqwekkeWERkdfksazblYcfPQye08f7MGEWRweVA9XkHa
+  # secret: user_token_ecommerce
 
 gateway:
   ip: 192.168.0.14
